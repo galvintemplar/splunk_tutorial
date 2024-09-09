@@ -29,7 +29,10 @@ The project was divided into several phases:
 Throughout the project, I documented each step and ensured all procedures were transferable for future use. This project helped solidify my understanding of data ingestion, search optimization, reporting, and visualization within Splunk, enhancing my data analysis capabilities.
 
 <h2>Dashboard</h2>
-http://127.0.0.1:8000/en-US/app/search/buttercup_games_-_purchases_copy?showConversionCompleteDialog=true
+<img src="https://i.imgur.com/X7eaKiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 
 
